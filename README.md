@@ -1,3 +1,3 @@
 # python-helloworld
 
-# this is a excercise for Udacity course
+this is a excercise for Udacity course
